@@ -1,0 +1,6 @@
+public class TestJava {
+    public static void main(String[] args) {
+        System.out.println("Boga - Version 2.0");
+	
+    }
+}
